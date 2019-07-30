@@ -1,0 +1,4 @@
+﻿  Chap04PC01.cpp
+\\vmware-host\shared folders\documents\visual studio 2010\projects\chap04pc01\chap04pc01\chap04pc01.cpp(8): warning C4101: 'Greater' : unreferenced local variable
+  LINK : \\vmware-host\Shared Folders\Documents\Visual Studio 2010\Projects\Chap04PC01\Debug\Chap04PC01.exe not found or not built by the last incremental link; performing full link
+  Chap04PC01.vcxproj -> \\vmware-host\Shared Folders\Documents\Visual Studio 2010\Projects\Chap04PC01\Debug\Chap04PC01.exe

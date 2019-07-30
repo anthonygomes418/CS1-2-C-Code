@@ -1,0 +1,299 @@
+Joel Armstrong
+522433244
+Bus Admin
+2.98
+27
+
+Reynaldo Watskin
+329912838
+Comp Sci
+3.00
+19
+
+Anne Granger
+786843592
+Comp Sci
+4.00
+22
+
+Javier Morrison
+228337635
+Bus Admin
+3.88
+25
+
+Bob McBobberson
+412345678
+Comp Sci
+3.29
+20
+
+Petunia Flowers
+379439210
+Bus Admin
+3.90
+22
+
+Louis Nichols
+489345458
+Physics
+3.29
+23
+
+Dudley Duds
+422333456
+Bus Admin
+3.87
+22
+
+Dewey Stevens
+433443434
+Physics
+2.98
+21
+
+Robin Jackson
+432123456
+Comp Sci
+3.50
+19
+
+Paisley Black
+987233774
+Bus Admin
+3.67
+22
+
+Carolyn Chell
+499199999
+Physics
+3.95
+22
+
+Theodore Roberts
+922333445
+Bus Admin
+3.87
+25
+
+Peter Jackson
+400130405
+Physics
+3.00
+29
+
+William Smith
+402333450
+Bus Admin
+3.87
+22
+
+David Daverson
+444453123
+Physics
+3.85
+24
+
+Renee Jenkins
+423132009
+Comp Sci
+3.75
+25
+
+Courtney Nicks
+435909905
+Physics
+3.00
+25
+
+Michael Dodd
+419457466
+Physics
+2.00
+23
+
+Carl Frito
+429157101
+Physics
+2.10
+20
+
+Dorita Nabisco
+432111299
+Comp Sci
+3.55
+19
+
+Emily Hasselhoff
+329339125
+Comp Sci
+3.29
+20
+
+Patrick Starr
+292002345
+Comp Sci
+1.00
+19
+
+Georgia Hilton
+490344400
+Physics
+2.50
+23
+
+Diego Diez
+987393290
+Comp Sci
+3.97
+22
+
+Helga Dvashkiin
+182934445
+Comp Sci
+3.50
+19
+
+Felix Palowski
+219123499
+Comp Sci
+3.89
+19
+
+Ronald McDavis
+433912878
+Comp Sci
+3.10
+25
+
+Ren Hazumi
+982101454
+Comp Sci
+3.99
+21
+
+Mariah Carr
+692913459
+Comp Sci
+3.75
+22
+
+Nix Nixson
+189201433
+Comp Sci
+3.50
+24
+
+Tom Neddleston
+349432323
+Comp Sci
+3.52
+29
+
+David McClaw
+400130499
+Comp Sci
+3.49
+26
+
+Vanessa Carlito
+827138389
+Comp Sci
+3.75
+19
+
+Jacob Daves
+422122256
+Comp Sci
+3.00
+23
+
+Mario Rossi
+323333411
+Bus Admin
+3.67
+22
+
+Les Gibson
+120172333
+Bus Admin
+3.92
+22
+
+Steve Klingon
+333932321
+Comp Sci
+3.39
+29
+
+Sirius White
+529343459
+Bus Admin
+3.81
+20
+
+Donner Jenkins
+343097236
+Bus Admin
+3.54
+22
+
+Xena Schmidt
+939872121
+Comp Sci
+3.98
+21
+
+Tim Owens
+412131717
+Bus Admin
+2.89
+23
+
+Niel Bohr
+988779165
+Bus Admin
+3.90
+20
+
+Ned Tesby
+530122334
+Comp Sci
+1.90
+18
+
+George McLewis
+405436455
+Physics
+3.75
+45
+
+Desiree Dill
+898778232
+Bus Admin
+3.77
+21
+
+Harry Hopskin
+718923451
+Comp Sci
+3.20
+21
+
+Lance Wafer
+321313151
+Bus Admin
+3.75
+35
+
+Nicole Brown
+545659130
+Comp Sci
+3.92
+33
+
+Wesley Snider
+489820091
+Comp Sci
+2.88
+22

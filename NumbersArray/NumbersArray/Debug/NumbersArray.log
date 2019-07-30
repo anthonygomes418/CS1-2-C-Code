@@ -1,0 +1,6 @@
+﻿  NumberArray.cpp
+\\vmware-host\shared folders\documents\visual studio 2010\projects\numbersarray\numbersarray\numberarray.cpp(10): warning C4101: 'high' : unreferenced local variable
+\\vmware-host\shared folders\documents\visual studio 2010\projects\numbersarray\numbersarray\numberarray.cpp(10): warning C4101: 'average' : unreferenced local variable
+\\vmware-host\shared folders\documents\visual studio 2010\projects\numbersarray\numbersarray\numberarray.cpp(10): warning C4101: 'low' : unreferenced local variable
+  LINK : \\vmware-host\shared folders\documents\visual studio 2010\Projects\NumbersArray\Debug\NumbersArray.exe not found or not built by the last incremental link; performing full link
+  NumbersArray.vcxproj -> \\vmware-host\shared folders\documents\visual studio 2010\Projects\NumbersArray\Debug\NumbersArray.exe

@@ -1,0 +1,12 @@
+﻿Build started 2/15/2015 5:40:37 PM.
+Project "\\vmware-host\shared folders\documents\visual studio 2010\Projects\Assignment 1\Assignment 1\Assignment 1.vcxproj" on node 2 (build target(s)).
+InitializeBuildStatus:
+  Creating "Debug\Assignment 1.unsuccessfulbuild" because "AlwaysCreate" was specified.
+FinalizeBuildStatus:
+  Deleting file "Debug\Assignment 1.unsuccessfulbuild".
+  Touching "Debug\Assignment 1.lastbuildstate".
+Done Building Project "\\vmware-host\shared folders\documents\visual studio 2010\Projects\Assignment 1\Assignment 1\Assignment 1.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.35

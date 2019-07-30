@@ -1,0 +1,4 @@
+﻿  FinalProject.cpp
+\\vmware-host\shared folders\documents\visual studio 2010\projects\finaloverallproject\finaloverallproject\finalproject.cpp(96): error C4716: 'Part1' : must return a value
+\\vmware-host\shared folders\documents\visual studio 2010\projects\finaloverallproject\finaloverallproject\finalproject.cpp(118): error C4716: 'Part2' : must return a value
+\\vmware-host\shared folders\documents\visual studio 2010\projects\finaloverallproject\finaloverallproject\finalproject.cpp(157): error C4716: 'Part3' : must return a value

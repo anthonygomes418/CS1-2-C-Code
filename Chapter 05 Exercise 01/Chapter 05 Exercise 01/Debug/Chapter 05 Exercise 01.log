@@ -1,0 +1,7 @@
+﻿  Chapter 05 Exercise 01.cpp
+c:\program files (x86)\reference assemblies\microsoft\framework\.netframework\v4.0\system.core.dll : warning C4945: 'ExtensionAttribute' : cannot import symbol from 'c:\program files (x86)\reference assemblies\microsoft\framework\.netframework\v4.0\system.core.dll': as 'System::Runtime::CompilerServices::ExtensionAttribute' has already been imported from another assembly 'mscorlib'
+          c:\windows\microsoft.net\framework\v4.0.30319\mscorlib.dll : see declaration of 'System::Runtime::CompilerServices::ExtensionAttribute'
+          first seen type is used; re-order imported assemblies to use the current type
+          This diagnostic occurred while importing type 'System.Runtime.CompilerServices.ExtensionAttribute' from assembly 'System.Core, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089'.
+c:\users\anthony priyo gomes\documents\visual studio 2010\projects\chapter 05 exercise 01\chapter 05 exercise 01\chapter 05 exercise 01.cpp(26): warning C4700: uninitialized local variable 'Total' used
+  Chapter 05 Exercise 01.vcxproj -> C:\Users\Anthony Priyo Gomes\Documents\Visual Studio 2010\Projects\Chapter 05 Exercise 01\Debug\Chapter 05 Exercise 01.exe
